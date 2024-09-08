@@ -672,7 +672,7 @@ nav ul {
   align-items: center;
   justify-content: center;
   font-size: 70px;
-  transform: translateX(41%);
+  transform: translateX(-41%);
 }
 
 #anda img {
