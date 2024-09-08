@@ -522,7 +522,7 @@ nav ul { /* Assuming you'll eventually have navigation links within an unordered
 }
 .anda a{
   font-size: 70px;
-  transform: translateX(80%);
+  transform: translateX(-41%);
 }
  .anda h1{
   font-size: 15px;
